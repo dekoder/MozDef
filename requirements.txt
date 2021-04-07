@@ -4,7 +4,7 @@ appdirs==1.4.0
 boto==2.38.0
 boto3==1.4.7
 botocore==1.7.36
-bottle==0.12.4
+bottle==0.12.19
 bugzilla==1.0.0
 celery==4.1.0
 cffi==1.9.1
